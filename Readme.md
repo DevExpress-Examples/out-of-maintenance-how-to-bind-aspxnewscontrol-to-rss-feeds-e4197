@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind ASPxNewsControl to RSS feeds
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4197/)**
+<!-- run online end -->
 
 
 <p>This sample illustrates how to bind ASPxNewsControl to the DevExpress News rss feed. RSS format presents data in a hierarchical view. </p><p>ASPxNewsControl allows you to correctly bind to XmlDataSource if source values are presented as attributes. It is easy to convert  your  hierarchical view to the necessary view by using the XmlDataSource.TransformFile property. Simply respecify the rss stylesheet in the following manner:</p><br />
